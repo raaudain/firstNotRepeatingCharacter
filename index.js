@@ -21,3 +21,5 @@ function firstNotRepeatingCharacter(s) {
     
     return "_";
 }
+
+firstNotRepeatingCharacter("abacabad");
